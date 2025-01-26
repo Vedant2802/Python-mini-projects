@@ -17,3 +17,7 @@ print(credit_number[::2])
 #reverse this string
 
 print(credit_number[::-1])
+
+num = [1,2,3,4,5]
+print(num[::-1])
+
