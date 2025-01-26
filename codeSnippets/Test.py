@@ -100,10 +100,19 @@
 
 # str_length("Akshat")
 
-my_string = "Akshat Vedant"
+# my_string = "Akshat Vedant"
 
-# for i in range(len(my_string)):
-#     print(my_string[i])
+# # for i in range(len(my_string)):
+# #     print(my_string[i])
 
-for c in my_string:
-    print(c)
+# for c in my_string:
+#     print(c)
+
+
+def print_char(word1:str , word2:str):
+    for char1 in word1:
+        print(char1)
+    for char2 in word2:
+        print(char2)
+
+print_char("Akshat" , "Vedant")
