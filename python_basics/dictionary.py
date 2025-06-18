@@ -10,5 +10,5 @@ name  = {'akshat':25 , 'shanky':26 , 'name2':27}
 #         print("index is there")
 
 # methods commonly used pop(index) , popitem()
-y = name.popitem()
-print(name)
+# y = name.popitem()
+# print(name)
